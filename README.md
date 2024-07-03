@@ -1,7 +1,7 @@
 🚀 About Me
 🌐 Website: github.com/JamieDevOps
 💼 LinkedIn: linkedin.com/in/jamie-olatunji
-🐦 Twitter: twitter.com/yourhandle
+🐦 Twitter: twitter.com/lakavana_
 📧 Email: olatjamie@gmail.com
 
 🛠️ Skills & Tools
